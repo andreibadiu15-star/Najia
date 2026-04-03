@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":SkySMP12.aternos.me
+    "ip":SkySMP12
     "port": 24435
     "version": 1.21.11
     "try-creative": false
